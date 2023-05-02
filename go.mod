@@ -5,7 +5,7 @@ go 1.16
 require (
 	github.com/Masterminds/semver v1.5.0
 	github.com/davecgh/go-spew v1.1.1
-	github.com/hashicorp/terraform-plugin-sdk v1.0.0
+	github.com/hashicorp/terraform-plugin-sdk v1.17.2
 	github.com/mumoshu/shoal v0.2.18
 	github.com/mumoshu/terraform-provider-eksctl v0.17.0
 	github.com/pkg/profile v1.7.0
