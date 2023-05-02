@@ -9,7 +9,7 @@ require (
 	github.com/mumoshu/shoal v0.2.18
 	github.com/mumoshu/terraform-provider-eksctl v0.17.0
 	github.com/pkg/profile v1.5.0
-	github.com/rs/xid v1.2.1
+	github.com/rs/xid v1.5.0
 	golang.org/x/xerrors v0.0.0-20220907171357-04be3eba64a2
 )
 
